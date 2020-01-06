@@ -1,7 +1,7 @@
 # SecretSanta19
 Gameboy Advance demo source code for Button Bashers Secret Santa 2019
 
-https://www.youtube.com/watch?v=6-kZKGo8a7k/{video-id}/0.jpg
+[![](http://img.youtube.com/vi/6-kZKGo8a7k/0.jpg)](http://www.youtube.com/watch?v=6-kZKGo8a7k "")
 
 This demo was created during my 2019 Christmas holiday break as a Secret Santa gift. It should compile 'as is' and I've included the Microsoft Visual Studio Code workspace file. 
 
