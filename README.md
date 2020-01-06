@@ -1,6 +1,8 @@
 # SecretSanta19
 Gameboy Advance demo source code for Button Bashers Secret Santa 2019
 
+https://www.youtube.com/watch?v=6-kZKGo8a7k/{video-id}/0.jpg
+
 This demo was created during my 2019 Christmas holiday break as a Secret Santa gift. It should compile 'as is' and I've included the Microsoft Visual Studio Code workspace file. 
 
 The work is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication. https://creativecommons.org/publicdomain/zero/1.0/
