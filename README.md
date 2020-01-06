@@ -9,14 +9,18 @@ The work is made available under the Creative Commons CC0 1.0 Universal Public D
 # Credits
 
 Code by Ravity / Solar
+
 Music was kindly borrowed (without asking permission) from Estrayk  
+
 Various graphics ripped from the internet in spirit of 'fair use' :)
 
 
 # 3rd party
 
 DevkitPro: https://github.com/devkitPro/installer/releases/tag/v3.0.3
+
 Pimp Mobile: https://github.com/kusma/pimpmobile
+
 Xmas by EstrayK: https://files.scene.org/view/mirrors/scenesp.org/compilations/modplanet/normal/cd1/amiga%20artists/estrayk/xmas.mod
 
 
