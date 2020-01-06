@@ -10,7 +10,7 @@ The work is made available under the Creative Commons CC0 1.0 Universal Public D
 
 # Credits
 
-Code by Ravity / Solar
+Code by me
 
 Music was kindly borrowed (without asking permission) from Estrayk  
 
