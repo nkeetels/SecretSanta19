@@ -23,7 +23,4 @@ DevkitPro: https://github.com/devkitPro/installer/releases/tag/v3.0.3
 
 Pimp Mobile: https://github.com/kusma/pimpmobile
 
-Xmas by EstrayK: https://files.scene.org/view/mirrors/scenesp.org/compilations/modplanet/normal/cd1/amiga%20artists/estrayk/xmas.mod
-
-
-
+Grit: https://www.coranac.com/projects/grit/
